@@ -18,6 +18,7 @@ The project is organized into the following directories:
 - **benchmark**: Includes the test set (`testset.pkl`) used for evaluation and the `evaluate.py` script for performing model evaluation.
 - **demo**: Contains `Model_Demo.py`that can be used to deploy the model using stramlit as model visualization.
 
+## Link to Video Demo: https://drive.google.com/file/d/1xQBJVAlnVxzjRntxugErLL5Uo8ml_LW6/view?usp=sharing
 ## Getting Started
 
 To reproduce the results of the movie recommender system, follow the steps below:
